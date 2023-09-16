@@ -7,8 +7,6 @@ print(".................................:Capítulo 1:...........................
 print(nombre, "es momento de elegir tu rumbo: ¿Hacia la derecha o izquierda?")
 
 ruta1 = 0; 
-# ruta2 = 0; ruta3 = 0; ruta4 = 0; ruta5 = 0
-
 while ruta1 == 0:
     rumbo = input("Digita tu decisión (derecha o izquierda): ")
     if rumbo == "izquierda":
